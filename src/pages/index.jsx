@@ -1,3 +1,3 @@
-import ApplicationPage from "../containers/Application/pages";
+import ApplicationPage from ":pages/Home";
 
 export default () => <ApplicationPage />;
